@@ -4,9 +4,10 @@ Addiva Elektronik offers specialist expertise in electronics design and embedded
 both microcontrollers and regular Linux or BSD based systems.
 
 We have cutting-edge expertise in the area of communication and embedded power and are happy to help
-already at the idea stage to bring your finished product all the way to production.
+already at the idea stage to bring your finished product all the way to production.  Our experienced
+people are only an email or quick call away <https://www.addiva.se/contact/>
 
-Visit the ADDIVA-EEPAB Group at <https://addiva.se/>
+For more information, visit the ADDIVA-EEPAB Group at <https://addiva.se/>
 
 
 <!--
