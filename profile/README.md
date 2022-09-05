@@ -4,10 +4,10 @@ Addiva Elektronik offers specialist expertise in electronics design and programm
 In the area of communication and embedded power, we have cutting-edge expertise.  We are happy to help
 already at the idea stage and bring your finished product all the way to serial production.
 
-Key Values
-----------
+Mission Statement
+-----------------
 
-  * An inspiring workplace with an open and innovative culture
+  * The most inspiring workplace in town with an open and innovative culture
   * A flat organization with a culture of commitment
   * Personnel development
   * Transparency
