@@ -6,7 +6,7 @@ both microcontrollers and regular Linux or BSD based systems.
 We have cutting-edge expertise in the area of communication and embedded power and are happy to help
 already at the idea stage to bring your finished product all the way to production.
 
-  * Visit the ADDIVA-EEPAB Group at <https://addiva.se/>
+Visit the ADDIVA-EEPAB Group at <https://addiva.se/>
 
 
 <!--
