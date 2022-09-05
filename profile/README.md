@@ -7,7 +7,7 @@ We have cutting-edge expertise in the area of communication and embedded power a
 already at the idea stage to bring your finished product all the way to production.  Experience and
 expertise is only an email or quick call away <https://www.addiva.se/contact/>
 
-For more information, visit the ADDIVA-EEPAB Group at <https://addiva.se/>
+> For more information, visit the ADDIVA-EEPAB Group at <https://addiva.se/>
 
 Check out some of the current Open Source projects we are working with, below.
 
