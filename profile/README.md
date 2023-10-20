@@ -1,4 +1,4 @@
-## Hi there 👋
+## Addiva Elektronik AB
 
 Addiva Elektronik offers specialist expertise in electronics design and embedded systems development,
 both microcontrollers and Linux or BSD based systems.
@@ -7,9 +7,10 @@ We have cutting-edge expertise in the area of communication and embedded power a
 already at the idea stage to bring your finished product all the way to production.  Experience and
 expertise is only an email or quick call away <https://www.addiva.se/contact/>
 
-> For more information, visit the ADDIVA-EEPAB Group at <https://addiva.se/>
+<b>For more information, visit the ADDIVA-EEPAB Group at <https://addiva.se/></b>
 
-Check out some of the current Open Source projects we are working on, below.  
+Check out some of the current Open Source projects we are working on, below.
+
 Or visit our tech blog at <https://addiva-elektronik.github.io/>
 
 <!--
