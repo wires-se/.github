@@ -1,4 +1,4 @@
-## Wires AB
+## Wires
 
 Wires offer specialist expertise in electronics design and embedded systems, both microcontrollers
 and Linux based systems.
