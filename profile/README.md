@@ -1,21 +1,14 @@
-## Wires
+<a href="https://www.wires.se/"><img src="logo.png"></a>
+<div align="center">[ <a href="https://www.wires.se/">https://www.wires.se</a> | <a href="https://wires-se.github.io/">https://wires-se.github.io/</a> ]</div>
+<br />
 
-Wires offer specialist expertise in electronics design and embedded systems, both microcontrollers
-and Linux based systems.
+We offer specialist expertise in electronics design and embedded
+systems, both micro controllers and Linux based systems.
 
-We have cutting-edge expertise in the area of communication and embedded power and are happy to help
-already at the idea stage to bring your finished product all the way to production.  Experience and
-expertise is only an email or quick call away <https://www.wires.se>
+We have cutting-edge expertise in the area of communication and embedded
+power and are happy to help already at the idea stage to bring your
+finished product all the way to production.  Experience and expertise is
+only an email or quick call away.
 
-Check out some of the current Open Source projects we are working on, below.
-
-Or visit our tech blog at <https://wires-se.github.io/>
-
-<!--
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Check out some of the current Open Source projects we are working on,
+below, or visit our [tech blog](https://wires-se.github.io/).
