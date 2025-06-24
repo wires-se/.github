@@ -1,5 +1,5 @@
-<a href="https://www.wires.se/"><img src="logo.png"></a>
-<div align="center">[ <a href="https://www.wires.se/">https://www.wires.se</a> | <a href="https://wires-se.github.io/">https://wires-se.github.io/</a> ]</div>
+<div align="center">
+<a href="https://www.wires.se/"><img src="play.svg" width="400px"></a><br />[ <a href="https://www.wires.se/">https://www.wires.se</a> | <a href="https://wires-se.github.io/">https://wires-se.github.io/</a> ]</div>
 <br />
 
 We offer specialist expertise in electronics design and embedded
