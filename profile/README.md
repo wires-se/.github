@@ -1,14 +1,20 @@
 <div align="center">
-<a href="https://www.wires.se/"><img src="play.svg" width="400px"></a><br />[ <a href="https://www.wires.se/">https://www.wires.se</a> | <a href="https://wires-se.github.io/">https://wires-se.github.io/</a> ]</div>
+<a href="https://www.wires.se/"><img src="play.svg" width="400px"></a><br />
+[ <a href="https://www.wires.se/">https://www.wires.se</a> | <a href="https://wires-se.github.io/">https://wires-se.github.io/</a> ]
+</div>
 <br />
 
-We offer specialist expertise in electronics design and embedded
-systems, both micro controllers and Linux based systems.
+**Wires** designs advanced electronics and embedded systems — from
+bare-metal microcontrollers to full Linux platforms.
 
-We have cutting-edge expertise in the area of communication and embedded
-power and are happy to help already at the idea stage to bring your
-finished product all the way to production.  Experience and expertise is
-only an email or quick call away.
+We specialize in robust communication, embedded power, and secure,
+production-ready systems. From idea to manufacturing, we support every
+step — together with our partner, Eskilstuna Elektronikproduktion
+(EEPAB).
 
-Check out some of the current Open Source projects we are working on,
-below, or visit our [tech blog](https://wires-se.github.io/).
+Questions?  Our team is just an [email][1] or call away.
+
+Explore our open-source projects below or visit the [tech blog][2].
+
+[1]: mailto:contact@wires.se
+[2]: https://wires-se.github.io/
