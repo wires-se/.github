@@ -7,10 +7,10 @@
 **Wires** designs advanced electronics and embedded systems — from
 bare-metal microcontrollers to full Linux platforms.
 
-We specialize in robust communication, embedded power, and secure,
-production-ready systems. From idea to manufacturing, we support every
-step — together with our partner, Eskilstuna Elektronikproduktion
-(EEPAB).
+We specialize in mission-critical communication systems, embedded power,
+and secure, production-grade platforms — built for industrial, railway,
+aerospace, and defense.  From idea to manufacturing, we support you at
+every stage — with our partner, Eskilstuna Elektronikproduktion (EEPAB).
 
 Questions?  Our team is just an [email][1] or call away.
 
