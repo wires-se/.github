@@ -10,7 +10,7 @@ bare-metal microcontrollers to full Linux platforms.
 We specialize in mission-critical communication systems, embedded power,
 and secure, production-grade platforms — built for industrial, railway,
 aerospace, and defense.  From idea to manufacturing, we support you at
-every stage — with our partner, Eskilstuna Elektronikproduktion (EEPAB).
+every stage — with our partner, Eskilstuna ElektronikPartner (EEPAB).
 
 Questions?  Our team is just an [email][1] or call away.
 
